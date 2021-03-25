@@ -1,0 +1,8 @@
+name: DiscountManhunt
+version: 1.0
+author: [Definitely_Rus]
+main: Manhunt.__init__
+api-version: 1.16
+commands:
+  store:
+    description: NO DESCRIPTION
